@@ -27,6 +27,7 @@
 <!-- 전체 레이어 시작 -->
 
 <div id="wrap">
+	<!-- main view 수정!! -->
 	<!-- header 시작 -->
 	<div id="header_mainsize">
 	    <c:import url="/EgovPageLink.do?link=main/inc/EgovIncHeader" />
